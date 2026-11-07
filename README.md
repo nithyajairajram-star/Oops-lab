@@ -143,3 +143,19 @@ Produced: 4
 Consumed: 4
 Produced: 5
 Consumed: 5
+
+ex.9 java output 
+
+D:\raghu\Java Programs>java ArrayListExample
+Currently the array list obj1 has following elements:[Ajeet, Harry, Chaitanya, Steve, Anuj]
+ArrayList obj1 after add All:[Ajeet, Harry, Chaitanya, Steve, Anuj, Babu, Kamal, Alice, Bob, Raj]
+ArrayList obj1 after add element at the given index:[Rahul, Justin, Ajeet, Harry, Chaitanya, 
+ Steve, Anuj, Babu, Kamal, Alice, Bob, Raj]
+Enter the Search element:
+Babu
+ArrayList obj1 contains the string Babu :true
+Current array list of obj1 after removing element is:[Rahul, Justin, Ajeet, Steve, Anuj, Babu, 
+Kamal, Alice, Bob, Raj]
+Current array list of obj1 after removing element through index is:[Rahul, Ajeet, Steve, Anuj, 
+Babu, Kamal, Alice, Bob, Raj]
+Enter the letter to display all the string start with given letter:
