@@ -117,3 +117,16 @@ IFETCE R-2023 ACADEMIC YEAR: 2025-2026
 32 Parsed and autoboxed Float: 75.25
 Parsed and autoboxed Character: C
 Parsed and autoboxed Boolean
+
+ex.7 java output 
+D:\JP>java ThreadProgram
+Main Thread and Generated Number is 10
+New Thread 10 is EVEN and Square of 10 is: 100
+Main Thread and Generated Number is 14
+New Thread 14 is EVEN and Square of 14 is: 196
+Main Thread and Generated Number is 83
+New Thread 83 is ODD and Cube of 83 is: 571787
+Main Thread and Generated Number is 1
+New Thread 1 is ODD and Cube of 1 is: 1
+Main Thread and Generated Number is 20
+New Thread 20 is EVEN and Square of 20 is: 400
