@@ -35,7 +35,9 @@ Dollar : 100
 Enter amount in Dollar
 6
 Rupees : 39
+
 ex.3 java output 
+
 D:\ Java Programs>java EmployeePayslip
 Enter Name of Employee :
 Raj
@@ -63,7 +65,9 @@ Address: Villupuram
 Mobile Number: 9994191599
 Grosssalary =32865.0
 Netsalary =31050.0
+
 ex.4 java output
+
 D:\JavaPrograms>java Shapes
 Enter values :
 7
