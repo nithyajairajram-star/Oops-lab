@@ -75,3 +75,30 @@ Enter values :
 Area of Rectangle is 56.0
 Area of Triangle is 28.0
 Area of Circle is 154.0
+
+ex.5 java output 
+
+Implementation of Stack using Array
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+10
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+15
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+25
+1.Push 2.Pop 3.Display 4.Exit 5.Use Linked List
+Enter your choice:
+3
+Elements are: 10 <-- 15 <-- 25 <--
+1.Push 2.Pop 3.Display 4.Exit
+2
+
+ex.6 java output 
