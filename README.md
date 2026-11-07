@@ -102,3 +102,18 @@ Elements are: 10 <-- 15 <-- 25 <--
 2
 
 ex.6 java output 
+
+Autoboxed Integer: 100
+Autoboxed Float: 25.75
+Autoboxed Character: A
+Autoboxed Boolean: true
+Unboxed int: 100
+Unboxed float: 25.75
+Unboxed char: A
+Unboxed boolean: true
+Parsed and autoboxed Integer: 300
+ IFET COLLEGE OF ENGINEERING| Department of CYBER SECURITY
+IFETCE R-2023 ACADEMIC YEAR: 2025-2026
+32 Parsed and autoboxed Float: 75.25
+Parsed and autoboxed Character: C
+Parsed and autoboxed Boolean
