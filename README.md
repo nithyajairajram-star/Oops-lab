@@ -196,3 +196,30 @@ connector-j-8.4.0.jar" StudentManagementA pp
 
 ex.12 java output 
 
+G:\IFET\prgs>java reservation
+Railway Reservation For Kabul Express
+1. Book ticket
+2. Cancel ticket
+3. Search passenger
+4. Reservation chart
+5. Display unbooked tickets
+6. Exit
+Please enter your choice
+1
+Please enter the class of ticket
+1. AC 2. First 3. Sleeper
+1
+Please enter no. of tickets
+1
+Please enter your name
+Sanjay
+ IFET COLLEGE OF ENGINEERING| Department of CYBER SECURITY
+ 
+IFETCE R-2023 ACADEMIC YEAR: 2025-2026
+62
+51 Please enter your age 20
+ Please enter your phno
+ 8767897676
+ Ticket successfully booked
+ Please pay Rs.1500
+
