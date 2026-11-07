@@ -63,4 +63,11 @@ Address: Villupuram
 Mobile Number: 9994191599
 Grosssalary =32865.0
 Netsalary =31050.0
-
+ex.4 java output
+D:\JavaPrograms>java Shapes
+Enter values :
+7
+8
+Area of Rectangle is 56.0
+Area of Triangle is 28.0
+Area of Circle is 154.0
