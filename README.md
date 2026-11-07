@@ -177,3 +177,22 @@ File Last Modified:1206324301937
 File Size: 406 bytes
 Is Hidden: false
 
+ex.11 java output 
+
+Compilation Command:
+G:\IFET\prgs>set CLASSPATH="C:\Program Files\Java\mysql-connector-j-8.4.0\mysql-connector-java-
+8.4.0.jar;C:\Program Files\Java\openjfx-22.0.1_windows-x64_bin-sdk\javafx-sdk-22.0.1\lib\*"
+G:\IFET\prgs>javac --module-path "C:\Program Files\Java\openjfx-22.0.1_windows-x64_
+bin-sdk\javafx-sdk-22.0.1\lib" --add-modules javafx.controls,javafx.fxml StudentManagementApp.java
+ 
+ IFET COLLEGE OF ENGINEERING| Department of CYBER SECURITY
+ 
+IFETCE R-2023 ACADEMIC YEAR: 2025-2026
+52 Run Command:
+G:\IFET\prgs>java --module-path "C:\Program Files\Java\openjfx-22.0.1_windows-x64_bin-sdk\
+javafx-sdk-22.0.1\lib;C:\Program Files\Java\mysql-connector-j-8.4.0\mysql-connector-j-8.4.0.jar" --add-
+modules javafx.controls,javafx.fxml -cp ".;C:\Program Files\Java\mysql-connector-j-8.4.0\mysql-
+connector-j-8.4.0.jar" StudentManagementA pp
+
+ex.12 java output 
+
