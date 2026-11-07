@@ -1,6 +1,5 @@
 ex.1 java output 
 
-
 D:\Java Programs>javac ElectBill.java
 D:\Java Programs>java ElectBill
 Enter Consumer number = 102
@@ -159,3 +158,22 @@ Kamal, Alice, Bob, Raj]
 Current array list of obj1 after removing element through index is:[Rahul, Ajeet, Steve, Anuj, 
 Babu, Kamal, Alice, Bob, Raj]
 Enter the letter to display all the string start with given letter:
+
+ex.10 java output 
+
+D:/JavaPrograms> java FileDemo
+Fibonacci.java
+File Name:Fibonacci.java
+Path: Fibonacci.java
+Abs Path: c:\sameer\Fibonacci.java
+Parent: Null
+This file is:Exists
+Is file:true
+Is Directory:false
+Is Readable:true
+Is Writable:true
+Is Absolute:false
+File Last Modified:1206324301937
+File Size: 406 bytes
+Is Hidden: false
+
