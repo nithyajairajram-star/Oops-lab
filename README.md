@@ -35,4 +35,32 @@ Dollar : 100
 Enter amount in Dollar
 6
 Rupees : 39
+ex.3 java output 
+D:\ Java Programs>java EmployeePayslip
+Enter Name of Employee :
+Raj
+Enter ID of Employee :
+327
+Enter Address of Employee :
+Villupuram
+Enter Mail ID of Employee :
+raj@gmail.com
+Enter Mobile Number of Employee :
+9994191599
+Enter the Basicpay :
+15000
+Enter the Designation :
+1. Programmer
+2. AssistantProfessor
+3. AssociateProfessor
+4. Professor
+5. Exit
+2
+Name of The Employee :Raghu***** payslip ****
+Employee Name: Raghu
+Employee_ID: 327
+Address: Villupuram
+Mobile Number: 9994191599
+Grosssalary =32865.0
+Netsalary =31050.0
 
