@@ -1,4 +1,6 @@
 ex.1 java output 
+
+
 D:\Java Programs>javac ElectBill.java
 D:\Java Programs>java ElectBill
 Enter Consumer number = 102
