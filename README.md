@@ -130,3 +130,16 @@ Main Thread and Generated Number is 1
 New Thread 1 is ODD and Cube of 1 is: 1
 Main Thread and Generated Number is 20
 New Thread 20 is EVEN and Square of 20 is: 400
+
+ex.8 java output 
+
+Produced: 1
+ Consumed: 1
+ Produced: 2
+ Consumed: 2
+Produced: 3
+Consumed: 3
+Produced: 4
+Consumed: 4
+Produced: 5
+Consumed: 5
